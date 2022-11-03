@@ -1,0 +1,6 @@
+Qual a importancia de se estudar logica de Programação e Algoritmo ?
+
+A logica da programação é importante porque sem ela os dados não executam suas funções de maneira efetiva, gerando um resultado 
+indesejado na programação.
+O estudo de algarítimos nos da acesso ao aprendizado de tecnicas de análise, nos proporcionado o conhecimento para criação, atualização,
+resolução e entendimento de suas próprias características 
