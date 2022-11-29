@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -34.8641,
+        "lat": -7.1151
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "nublado",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.28,
+        "feels_like": 302.14,
+        "temp_min": 300.28,
+        "temp_max": 300.28,
+        "pressure": 1005,
+        "humidity": 69
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.14,
+        "deg": 40
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1669753641,
+    "sys": {
+        "type": 1,
+        "id": 8391,
+        "country": "BR",
+        "sunrise": 1669708385,
+        "sunset": 1669753368
+    },
+    "timezone": -10800,
+    "id": 3397277,
+    "name": "Jo\u00e3o Pessoa",
+    "cod": 200
+}

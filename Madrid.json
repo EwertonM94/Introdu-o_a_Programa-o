@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -3.7026,
+        "lat": 40.4165
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "c\u00e9u limpo",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 280.73,
+        "feels_like": 279.47,
+        "temp_min": 278.68,
+        "temp_max": 282.8,
+        "pressure": 1004,
+        "humidity": 71
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 310
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1669753416,
+    "sys": {
+        "type": 2,
+        "id": 2007545,
+        "country": "ES",
+        "sunrise": 1669706194,
+        "sunset": 1669740598
+    },
+    "timezone": 3600,
+    "id": 6544494,
+    "name": "Madrid City Center",
+    "cod": 200
+}
