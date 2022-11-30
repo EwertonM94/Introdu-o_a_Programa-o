@@ -13,31 +13,31 @@
     ],
     "base": "stations",
     "main": {
-        "temp": 280.73,
-        "feels_like": 279.47,
-        "temp_min": 278.68,
-        "temp_max": 282.8,
-        "pressure": 1004,
+        "temp": 282.06,
+        "feels_like": 281.51,
+        "temp_min": 279.74,
+        "temp_max": 283.52,
+        "pressure": 1015,
         "humidity": 71
     },
     "visibility": 10000,
     "wind": {
-        "speed": 2.06,
-        "deg": 310
+        "speed": 1.54,
+        "deg": 10
     },
     "clouds": {
         "all": 0
     },
-    "dt": 1669753416,
+    "dt": 1669841141,
     "sys": {
         "type": 2,
         "id": 2007545,
         "country": "ES",
-        "sunrise": 1669706194,
-        "sunset": 1669740598
+        "sunrise": 1669792657,
+        "sunset": 1669826978
     },
     "timezone": 3600,
-    "id": 6544494,
-    "name": "Madrid City Center",
+    "id": 6545083,
+    "name": "Sol",
     "cod": 200
 }

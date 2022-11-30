@@ -1,4 +1,4 @@
-# Alunos: Ewerton Santos Monteiro
+# Alunos: Ewerton, Danilo, Alexandre, Thales
 # Turma: SI/SPI P1B
 # Projeto de avaliação Unidade 2
 
@@ -7,7 +7,7 @@ from json import dumps
 from os import system
 from sys import stderr
 
-LIMPAR_TELA = 'cls' # Comando para limpar tela: Windows -> cls | Linux -> clear
+LIMPAR_TELA = 'cls'
 BANCO_DADOS = 'database.txt'
 SEPARADOR = '|'
 LIMITE_CIDADE_LINHA = 3
@@ -16,17 +16,21 @@ LANG = 'pt_br'
 def banner():
     system(LIMPAR_TELA)
     print('\t\t**********************************')
-    print('\t\t******   OPEN WEATHER       ******')
+    print('\t\t******   OPEN WEATHER MAP   ******')
     print('\t\t******   Turma: P1B         ******')
-    print('\t\t******   Aluno: Ewerton      ******')
+    print('\t\t******   Aluno: Ewerton     ******')
+    print('\t\t******   Aluno: Danilo      ******')
+    print('\t\t******   Aluno: Alexandre   ******')
+    print('\t\t******   Aluno: Thales      ******')
     print('\t\t**********************************\n')
+
 
 def menu():
     banner()
     print('\t\t  Escolha uma das opções abaixo:\n\n')
-    print('\t(1) Cadastrar uma Cidade   (2) Listar cidades cadastradas')
-    print('\t(3) Obter as informações de uma cidade   (4) Obter as informações de todas as cidades')
-    print('\t(5) Sair do programa\n')
+    print('(1) Cadastrar uma Cidade   \n(2) Listar cidades cadastradas')
+    print('(3) Obter as informações de uma cidade   \n(4) Obter as informações de todas as cidades')
+    print('(5) Sair do programa\n')
     
     escolha = int(input('[>] Informe o número da opção escolhida: '))
     return escolha
@@ -150,4 +154,6 @@ while True:
         pausar()
     else:
         break
+
+
 
